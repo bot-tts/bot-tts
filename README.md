@@ -4,7 +4,9 @@
 
 <img align="right" alt="TTS Bot Logo" src="https://github.com/bot-tts/bot-tts/blob/main/assets/images/tts-logo.jpg?raw=true" width="400" height="300" />
 
+
 <p><b>A Text To Speech Bot For Discord</b></p>
+
 
 
 
