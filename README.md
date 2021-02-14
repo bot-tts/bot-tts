@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="assets/images/hi.gif" width="25px"> , I'm TTS
 <hr>
 <a href="https://ttsbot.tk" align="center">
-     <img src="images/tts-logo.png" alt="logo" />
+     <img src="assets/images/tts-logo.jpg" alt="logo" />
 </a>
 
 ![views](https://komarev.com/ghpvc/?username=bot-tts)
