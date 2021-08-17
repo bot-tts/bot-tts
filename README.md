@@ -11,8 +11,10 @@
 <p><b>TTS - Speak With Style</b></p>
 
 [![Add TTS Bot](./assets/images/add-ttsbot-to-discord.png)](https://discord.com/oauth2/authorize?client_id=734590862620753970&scope=bot&permissions=2146958847&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2F4YpXu7bMf9)
-[![TTS Bot Support Server](./assets/images/join-support-server.png)](https://discord.gg/4YpXu7bMf9)
-
+[![TTS Bot Support Server](./assets/images/join-support-server.png)](https://discord.gg/N65TmeXAgp)
+<a href="https://discord.gg/N65TmeXAgp ">
+  <img src="http://invidget.switchblade.xyz/N65TmeXAgp" />
+</a>
 ## Features
 
 - Multilingual
